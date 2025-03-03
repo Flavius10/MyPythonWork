@@ -1,0 +1,12 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "New York",
+    "hobbies": [
+        "reading",
+        "traveling",
+        "photography"
+    ],
+    "is_student": true
+}
+{"nume": "Felix C. Pericic\u0103", "v\u00e2rsta": 29}

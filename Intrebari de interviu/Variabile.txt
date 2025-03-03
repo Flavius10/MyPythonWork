@@ -1,0 +1,3 @@
+Ce va afisa terminalul la o variabila scrisa gresit?
+is_married  snake case
+isMarried  camel case

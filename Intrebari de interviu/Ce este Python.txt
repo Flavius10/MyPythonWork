@@ -1,0 +1,1 @@
+Limbaj interpretat, OOP, care ne face o punte intre ceea ce face prgramatorul si program

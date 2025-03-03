@@ -1,0 +1,6 @@
+Semnatura completa a functiei pe cod este(uita-te)
+Toate elemenetele definitotii a unei functii
+debumire
+parametrii
+ce returneaza
+doxstringul
